@@ -1,0 +1,5 @@
+182, Sinovac, China, 1805
+840, Moderna, American, 7936
+178, AstraZeneca, Swedish-British, 3570
+137, Pfizer, EU, 3346
+48, Johnson, Netherland, 253

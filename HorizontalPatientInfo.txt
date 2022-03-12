@@ -1,0 +1,10 @@
+Brendon , abc12345 , 010101-01-0101  , 012-1342133 , breeerer@gmail.com , Ipoh Perak , Citizen , Not Vaccinated
+Cindy , cindy , 020202-10-2002 , 017-1290333 , cindy@gmail.com , KL , Citizen , Vaccinated
+Sam , Testing123 , 039232-21-2191 , 016-2910121 , sam@yahoo.com , Selangor , Non-Citizen , Not Vaccinated
+Li Hua , lihua , AC 281921 , 011-29121212 , iewjfowefw@gmail.com , Johor , Non-Citizen , Not Vaccinated
+hello , 1234567890 , 012121-92-9119 , 012-1891111 , testing@gmail.com , KL , Citizen , Vaccinated
+ali , 1234567 , 010101-20-1011 , 019-2910211 , ali@gmail.com , KL , Citizen , Vaccinated
+Lingkenz , 1234567 , 010101-01-0123 , 012-9101211 , lingkenz@gmail.com , ipoh , Citizen , Not Vaccinated
+Benz , benzlee0123 , 010232-23-2102 , 017-9210232 , benz@gmail.com , fwerw , Citizen , Not Vaccinated
+DanielSeow , danielseow , 023020-23-2302 , 012-3920232 , daniel@gmail.com , KL , Citizen , Not Vaccinated
+Mr Teo , 12345 , 098975-01-6281 , 012-7894561 , teo@gmail.com , Taman Bunga , Citizen , Not Vaccinated

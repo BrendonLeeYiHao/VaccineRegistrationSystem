@@ -1,0 +1,9 @@
+148, Leskin, Ipoh, Sinovac
+421, Stadium Mulia, Johor, Moderna
+290, Clinic Goh, Ipoh, Pfizer
+384, Clinic Lee, Selangor, Astrazeneca
+380, Hospital Saint, KL, Moderna
+578, Hospital Besar, Selangor, Pfizer
+877, Hospital Puchong, Selangor, Sinovac
+338, Clinic Low, Melaka, Pfizer
+217, Hospital Kuching, Sarawak, AstraZeneca
